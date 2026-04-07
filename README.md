@@ -1,8 +1,14 @@
 # typescript-react-patterns
+![License: MIT](https://img.shields.io/badge/license-MIT-blue.svg)
+![TypeScript](https://img.shields.io/badge/TypeScript-5.8+-3178C6?logo=typescript&logoColor=white)
+![React](https://img.shields.io/badge/React-18+-61DAFB?logo=react&logoColor=black)
+![Next.js](https://img.shields.io/badge/Next.js-14+-000?logo=next.js)
 
 > Production-grade Agent Skill for TypeScript, React, and Next.js.
 
-A structured markdown reference that helps AI coding agents generate better code, catch bugs, review PRs, and make architecture decisions for frontend projects.
+Korean README: [README.ko.md](README.ko.md)
+
+A structured markdown reference built for AI coding agents working on real TypeScript frontends, with especially strong coverage of React patterns and Next.js App Router architecture.
 
 **Not an npm package. Not a tutorial.** A field manual for AI agents helping frontend engineers.
 
@@ -85,8 +91,13 @@ typescript-react-patterns/
 
 ## What Makes This Different
 
+Most frontend skills stop at generic TypeScript tips. This one is intentionally stronger on React and Next.js, where coding agents most often make costly mistakes: props design, effects, state ownership, server/client boundaries, `searchParams`, Server Actions, hydration, serialization, and review-time architecture tradeoffs.
+
+It is designed not just to suggest patterns, but to help an agent make safer decisions in production React and Next.js codebases.
+
 | Feature | Typical skill | This skill |
 |---------|-------------|-----------|
+| React + Next.js depth | Limited or generic | Strong coverage of real React patterns and Next.js App Router constraints |
 | Pattern guidance | ✅ | ✅ |
 | Agent behavior rules | ❌ | ✅ What to check first, what NOT to assume |
 | Decision guide | ❌ | ✅ Situation → recommended pattern → file |

